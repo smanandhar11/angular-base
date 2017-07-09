@@ -1,0 +1,31 @@
+{
+  "name": "webpack22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/webpack-dev-server --content-base src/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.6.4",
+    "angular-animate": "^1.6.4",
+    "angular-aria": "^1.6.4",
+    "angular-material": "^1.1.4",
+    "angular-ui-router": "^1.0.3",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "css-loader": "^0.28.4",
+    "json-loader": "^0.5.4",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.4",
+    "node-sass": "^4.5.3",
+    "raw": "^0.1.4",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^6.0.5",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.0.0-rc.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
